@@ -12,7 +12,7 @@ def main():
 
 def getNum():
     num1 = float(input("Enter your first number: "))
-    num2 = float(input("Please enter your first number: "))
+    num2 = float(input("Enter your first number: "))
     return(num1, num2)
 
 def addNum(x, y):    
